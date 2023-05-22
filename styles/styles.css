@@ -88,3 +88,8 @@ footer{
 .background2{
     display: block;
 }
+.logo{
+    width: 100%;
+    grid-row: 1/1;
+    grid-column: 2/3;
+}
