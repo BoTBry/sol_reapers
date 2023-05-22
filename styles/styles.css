@@ -74,15 +74,7 @@ footer{
 
 
 @media screen and (max-width: 900px)  {
-    
-.back-video{
-    min-width: 390px;
-    height: 100%;
-} 
-}
-.logo{
-    width: 100%;
-}
+
 .background{
     margin: 50px auto;
     width: 250%;
