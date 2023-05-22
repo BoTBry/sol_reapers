@@ -74,20 +74,25 @@ footer{
 
 
 @media screen and (max-width: 900px)  {
-.back-video{
-    min-width: 390px;
-    height: 100%;
-} 
-.background{
-    margin: 50px auto;
-    width: 250%;
-    grid-column: 2/8;
-}
-#green{
-    margin: 50px auto;
-    width: 40%;
-    grid-column: 2/8; 
-}
-.background2{
-    display: block;
-}
+    #img-grid, .back-video{
+        display: block;
+        height: auto;
+    } 
+    }
+    .logo{
+        width: 100%;
+    }
+    .background{
+        margin: 50px auto;
+        width: 250%;
+        grid-column: 2/8;
+    }
+    #green{
+        margin: 50px auto;
+        width: 40%;
+        grid-column: 2/8; 
+    }
+    .background2{
+        display: block;
+    }
+
